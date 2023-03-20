@@ -40,8 +40,6 @@ export default function App() {
     }
   };
 
-  console.log(code);
-
   return (
     <div className="app">
       <div className="card">
